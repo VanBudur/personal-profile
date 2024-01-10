@@ -1,0 +1,66 @@
+/* h1{
+    color: blueviolet;
+
+}
+ul{
+    color: #000;
+}
+p{
+    color: pink;
+
+}
+footer{
+    color: aqua;
+} */
+/* @import"1.css";
+@import"2.css";
+@import"3.css"; */
+
+h1{
+    color: blueviolet;
+
+}
+ul{
+    color: #000;
+    list-style: none;
+    display: flex;
+}
+p{
+    color: pink;
+    font-size: 2em;
+
+
+}
+footer{
+    color: aqua;
+}
+.cards{
+    color: #000;
+}
+.cards2{
+    color: #612828;
+}
+.cards3{
+    color: #730909;
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    display: grid;
+    padding: 5%;
+}
+.sharing{
+    display: grid;
+}
+.info{
+    display: flex;
+}
+img{
+    width: 90%;
+    
+}
+.imgCard{
+    width: 50%;
+}

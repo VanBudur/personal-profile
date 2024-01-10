@@ -1,0 +1,17 @@
+.cards3 {
+    color: rgb(45, 211, 122);
+}
+li {
+    display: grid;
+    padding: 5%;
+}
+.sharing {
+    display: flex;
+    padding-top: 20%;
+}
+a {
+    text-decoration: none;
+}
+.imgCard{
+    width: 50%;
+}
